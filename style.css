@@ -1,0 +1,6 @@
+p.double {border-style: double;}
+html {
+    border-style: double; color: rgb(0, 85, 255);}
+    p, ul{border: 2px solid  ; padding: .5em ; }
+.block, 
+li {border: 2px solid blue}    
